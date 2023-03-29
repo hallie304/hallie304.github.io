@@ -8,7 +8,7 @@ bibliography: pub.bib
 
 <img src='assets/ha-avatar.jpg' width="30%">
 
-Profiles: [GitHub] (https://github.com/hallie304) - [LinkedIn](https://www.linkedin.com/in/hale30/)
+Profiles: [GitHub](https://github.com/hallie304) - [LinkedIn](https://www.linkedin.com/in/hale30/)
 
 I am Ha, an Computer Science undergrad at Fulbright University Vietnam. I am interested in studying the Data Science and AI. I am actively looking for internship opportunities in DS and AI for this summer 2023. My current project is about applying machine learning in analyzing stock market.
 
