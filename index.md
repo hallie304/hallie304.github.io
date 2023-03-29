@@ -10,14 +10,14 @@ bibliography: pub.bib
 
 Profiles: [LinkedIn](https://www.linkedin.com/in/hale30/)
 
-I am Ha, an undergrad at Fulbright University Vietnam. I am interested in studying the Data Science and AI. I am actively looking for internship opportunities in AI for this summer 2023. My current project is about applying machine learning in analyzing stock market.
+I am Ha, an Computer Science undergrad at Fulbright University Vietnam. I am interested in studying the Data Science and AI. I am actively looking for internship opportunities in DS and AI for this summer 2023. My current project is about applying machine learning in analyzing stock market.
 
 # Projects
 - Vietnam and US stock market prediction.
 - FUV course scheduling.
 - Adapting to Climate Change by Improving Extreme Weather Forecasts.
 - Data Science book analysis.
-# Other experiences
+# Experiences
 - I am working as a Teaching Assistant in Computer Science and Math at Fulbright Universoty Vietnam. 
 - I was a Research Assistant at [Union Technical Outsource](https://utovn.com.au/) (HCMC, Vietnam, 2022 - 2023).
 - I'm practicing Competitive Programming and competed at national level. ([my CodeForces profile](https://codeforces.com/profile/minnnnnn))
