@@ -17,6 +17,7 @@ I am Ha, an Computer Science undergrad at Fulbright University Vietnam. I am int
 - FUV course scheduling.
 - Adapting to Climate Change by Improving Extreme Weather Forecasts.
 - Data Science book analysis.
+
 # Experiences
 - I am working as a Teaching Assistant in Computer Science and Math at Fulbright Universoty Vietnam. 
 - I was a Research Assistant at [Union Technical Outsource](https://utovn.com.au/) (HCMC, Vietnam, 2022 - 2023).
